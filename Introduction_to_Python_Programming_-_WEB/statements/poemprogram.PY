@@ -1,0 +1,6 @@
+print("WE ARE GOING TO PRINT THE POEM  USING MULTIPLE PRINT STATEMENTS")
+print("I shall be telling this with a sigh")
+print("Somewhere ages and ages hence:")
+print("Two roads diverged in a wood, and I-")
+print("I took the one less traveled by,")
+print("And that has made all the difference.")

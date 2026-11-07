@@ -1,0 +1,7 @@
+print("program that answers the questions")
+print("the first question ")
+que_name=input ("what is your name ?:")
+print("the name is "+ que_name)
+print("the second question ")
+que_hobby=input ("Do you like to sing ?: ")
+print("for that question the answer is " + que_hobby)
